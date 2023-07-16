@@ -2,6 +2,7 @@
 Repo to store the triceratops runs for the superearth candidates  
 TOIs done by Aniket:  
 238  
+283  
 771  
 871  
 1467  
