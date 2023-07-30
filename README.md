@@ -17,3 +17,5 @@ TOI 5799b
 238, 283, 771, 871, 1467, 1739, 2068,4559, 5799  
 - TOIs done by Georges:
 - TOIs done by Dhruv:
+- TOIs done by Surendra:
+  1739, 4559
