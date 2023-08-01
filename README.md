@@ -15,5 +15,5 @@ TOI 5799b
 
 - TOIs done by Aniket: 
 238, 283, 771, 871, 1467, 1739, 2068,4559, 5799  
-- TOIs done by Georges:
+- TOIs done by Georges: 4559
 - TOIs done by Dhruv:
