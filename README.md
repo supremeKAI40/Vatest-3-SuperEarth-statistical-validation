@@ -12,8 +12,3 @@ TOI 1739b
 TOI 2068b  
 TOI 4559b  
 TOI 5799b  
-
-- TOIs done by Aniket:  238, 283, 771, 871, 1467, 2068, 4559, 5799  
-- TOIs done by Surendra:  4559
-- TOIs done by Priyash:  1739, 5799
-- TOIs done by Georgios: 4559
