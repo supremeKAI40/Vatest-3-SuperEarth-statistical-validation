@@ -10,6 +10,4 @@ TOI 1467b
 TOI 1739b  
 TOI 2068b  
 TOI 4559b  
-TOI 5799b  
-
-Make changes
+TOI 5799b 
